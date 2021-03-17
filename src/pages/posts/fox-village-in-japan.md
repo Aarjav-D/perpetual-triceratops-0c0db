@@ -43,7 +43,7 @@ seo:
       relativeUrl: true
 template: post
 title: SecretsOfTheUniverse
-subtitle: Your go to for all your information about the universe you live in(
+subtitle: 'Your go to for all your information about the universe you live in( '
 ---
 
 Apparently, Japan is covered in magical and irresistibly cute animal sanctuaries. **The Shrines of Ise** have been celebrated as the prototype of Japanese architecture. Largely of wood, traditional housing and many temple buildings see the use of tatami mats and sliding doors that break down the distinction between rooms and indoor and outdoor space.
